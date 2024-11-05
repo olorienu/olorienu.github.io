@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://olorienu.github.io/XHJ/sitemap_index.txt
+Sitemap: https://olorienu.github.io/ZYC/sitemap_index.txt
+Sitemap: https://olorienu.github.io/jUC/sitemap_index.txt
+Sitemap: https://olorienu.github.io/mNH/sitemap_index.txt
